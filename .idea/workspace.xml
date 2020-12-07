@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef510cc3-f549-4fb3-ba22-c53d2e1a40c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lD5RSl3sLUUGQJygLBN5jJaPK7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.tiket.testapi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projetos\Caroline\tiket-test-api\src\main\java\br\com\tiket\testapi\rsc" />
+      <recent name="D:\Projetos\Caroline\tiket-test-api\src\main\resources\db\migration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.tiket.testapi.TestApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef510cc3-f549-4fb3-ba22-c53d2e1a40c8" name="Default Changelist" comment="" />
+      <created>1607118812763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607118812763</updated>
+      <workItem from="1607118814864" duration="17332000" />
+      <workItem from="1607264910762" duration="164000" />
+      <workItem from="1607349967328" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="178" key="#Auto_Import" timestamp="1607213061943">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="178" key="#Auto_Import/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607213061943" />
+    <state x="1085" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1607216845379">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1085" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607216845379" />
+    <state x="1076" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607122230027">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1076" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607122230027" />
+    <state x="1060" y="275" key="FileChooserDialogImpl" timestamp="1607265072715">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="275" key="FileChooserDialogImpl/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607265072715" />
+    <state width="2517" height="335" key="GridCell.Tab.0.bottom" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.0.center" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.0.left" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.0.right" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.1.bottom" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.1.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.1.center" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.1.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.1.left" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.1.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="335" key="GridCell.Tab.1.right" timestamp="1607350237357">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="335" key="GridCell.Tab.1.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607350237357" />
+    <state width="2517" height="492" key="GridCell.Tab.2.bottom" timestamp="1607219088271">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607219088271" />
+    <state width="2517" height="492" key="GridCell.Tab.2.center" timestamp="1607219088271">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607219088271" />
+    <state width="2517" height="492" key="GridCell.Tab.2.left" timestamp="1607219088271">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607219088271" />
+    <state width="2517" height="492" key="GridCell.Tab.2.right" timestamp="1607219088271">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.2.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607219088271" />
+    <state x="781" y="162" key="SettingsEditor" timestamp="1607214705380">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="162" key="SettingsEditor/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607214705380" />
+    <state x="976" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1607264966345">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="976" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607264966345" />
+    <state x="911" y="217" width="737" height="606" key="find.popup" timestamp="1607119201784">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="911" y="217" width="737" height="606" key="find.popup/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607119201784" />
+    <state x="662" y="222" key="new project wizard" timestamp="1607214571895">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="662" y="222" key="new project wizard/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1607214571895" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/tiket/testapi/service/impl/EstadoServiceImpl.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
